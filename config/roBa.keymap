@@ -137,7 +137,7 @@
 &kp Q      &kp W         &kp E         &kp R                           &kp T                                                           &kp Y        &kp U  &kp I      &kp O    &kp P
 &kp A      &kp S         &kp D         &kp F                           &kp G        &caps_word                         &kp MINUS       &kp H        &kp J  &kp K      &kp L    &kp JP_COLON
 &kp Z      &kp X         &kp C         &kp V                           &kp B        &kp LEFT_SHIFT                     &kp JP_UNDER    &kp N        &kp M  &kp COMMA  &kp DOT  &kp SLASH
-&kp LCTRL  &kp LEFT_WIN  &kp LEFT_ALT  &lt_to_layer_0 6 LANG_HIRAGANA  &lt 2 SPACE  &lt_to_layer_0 3 INT_MUHENKAN      &kp BACKSPACE   &lt 1 ENTER                             &lt 5 DEL
+&kp LCTRL  &kp LEFT_WIN  &kp LEFT_ALT  &lt 6 GRAVE                     &lt 2 SPACE  &lt_to_layer_0 3 INT_MUHENKAN      &kp BACKSPACE   &lt 1 ENTER                             &lt 5 DEL
             >;
 
             sensor-bindings = <&scroll_encoder>;
